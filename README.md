@@ -42,6 +42,6 @@ I enjoy building practical ML projects and learning new technologies.
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/shivani-patil-901724340)
-- 🐙 GitHub: [@shivani14012004](https://github.com/shivani14012004)
+- 💼 LinkedIn:(www.linkedin.com/in/shivani-patil-901724340)
+- 🐙 GitHub: (https://github.com/shivani14012004)
 - 📧 Email: shivaninageshpatil@gmail.com
