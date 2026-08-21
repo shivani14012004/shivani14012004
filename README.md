@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Shivani Patil
 
-<!--
-**shivani14012004/shivani14012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering - Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 Aspiring Data Scientist | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Python, Data Science, and Machine Learning.
+I enjoy building practical ML projects and learning new technologies.
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- C++
+- SQL
+
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Machine Learning
+- EDA
+- Data Visualization
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Jupyter Notebook
+
+- ## 🚀 Projects
+
+- 🌳 **Banknote Authentication using Decision Tree**
+- 🏦 **Loan Approval Prediction**
+- 🛍️ **Mall Customer Segmentation using K-Means**
+- 📊 **Social Network Ads Purchase Prediction**
+
+👉 Check my projects: [GitHub Repositories](https://github.com/shivani14012004?tab=repositories)
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/shivani-patil-901724340)
+- 🐙 GitHub: [@shivani14012004](https://github.com/shivani14012004)
+- 📧 Email: shivaninageshpatil@gmail.com
