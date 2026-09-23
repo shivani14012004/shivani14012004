@@ -11,7 +11,6 @@ I enjoy building practical ML projects and learning new technologies.
 
 ### Programming
 - Python
-- C++
 - SQL
 
 ### Data Science & Machine Learning
